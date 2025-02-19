@@ -1,2 +1,6 @@
-# blockkuzushi
-burokkukuzusidesu
+# ブロック崩し
+これは、ブロック崩しです。
+コード：AI
+発想：僕
+音楽（予定）：僕
+効果音（予定）：僕
